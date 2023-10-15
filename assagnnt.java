@@ -10,6 +10,9 @@ class Sum{
             if(rem%2==0)
             {
                 sum=sum+rem;
+
+
+                
             }
             System.out.print(sum);
         }
