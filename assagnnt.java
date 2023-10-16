@@ -12,8 +12,7 @@ class Sum{
                 sum=sum+rem;
 
 
-                
-            }
+                int a =12;           }
             System.out.print(sum);
         }
     }
