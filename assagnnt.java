@@ -15,7 +15,7 @@ class Sum{
 
               string d="suda";        }
 
-                int b =12;           }
+                int b =12;  ok         }
 
             System.out.print(sum);
         }
